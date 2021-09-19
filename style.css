@@ -29,3 +29,44 @@ a{
 	background-color: white;
     color: #171717;
 }
+section{
+	width:1195px;
+	margin: 0 auto;
+}
+img{
+	width:  100%;
+}
+h2{
+	color: #171717;
+	font-size: 28px;
+	margin-top: 30px; 
+	padding-bottom: 60px;  
+}
+.image{
+	margin-right: 25px;
+	width: 219px;
+
+	}
+.active{
+	display: inline-block;
+}
+.text1{
+	margin-top: 60px;
+	text-decoration: none;
+	color: #171717;
+	font-size: 16px;
+}
+.text2{
+	margin-top: 18px;
+}
+.text3{
+	margin-top: 18px;
+}	  
+.button{
+   width: 341px;
+   height: 55px;
+	padding: 18px 78px 18px 57px;
+	background-color: #0A22F4;
+	color: white;
+	margin-top: 56px;
+}

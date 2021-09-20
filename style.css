@@ -69,4 +69,54 @@ h2{
 	background-color: #0A22F4;
 	color: white;
 	margin-top: 56px;
+	vertical-align: baseline;
+	margin-bottom: 180px;
+}
+.footer-sec{
+background-color: #0020F4;
+	height: 1080px;
+	padding-bottom: 32px;
+	padding-top: 275px;
+	margin-top: 60px;
+}
+}
+
+h3{
+	font-size: 32px;
+	margin-top: 275px;
+	margin-left: 240px;
+	color:white;
+}
+.container{
+	font-size: 16px;
+	text-decporation: none;
+	margin-top: 30px;
+	margin-bottom: 58px;
+	text-align: left;
+	
+}
+.right{
+	width: 209px;
+	margin-right:240px: ;
+}
+.smart{
+	width: 121px;
+	height: 35px;
+   margin-left: 242px;
+   margin-bottom: 32px;
+}
+span{
+	color: white;
+
+}
+.phone{
+	font-size: 22px;
+}
+.left{
+	font-size: 13px;
+	pading-left: 107px;
+	margin-bottom: 42px;
+}
+map{
+	margin-top: 56px;
 }
